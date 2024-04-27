@@ -1,7 +1,7 @@
 # COMBINER: Composed Image Retrieval Guided by Bidirectional Neighbor Relations
 
 This is an open-source implementation of the paper "COMBINER: Composed Image Retrieval Guided by Bidirectional Neighbor Relations" (**COMBINER and COMBINER+**).
-*Tip: We will gradually upload the organized code in the future.*
+*Tip: All codes and checkpoints will be released when the paper is accepted.*
 
 ### Installation
 1. Clone the repository
